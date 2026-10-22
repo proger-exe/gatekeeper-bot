@@ -1,7 +1,7 @@
 # GateKeeper (sub-bot)
 
 <!-- portfolio-card:start -->
-[![sh3lby.code — нейтральная обложка](docs/portfolio/card.png)](docs/portfolio/card.svg)
+[![GateKeeper — Проверка подписок перед доступом к общению.](docs/portfolio/card.png)](docs/portfolio/card.svg)
 <!-- portfolio-card:end -->
 
 MVP Telegram-бот для публичного чата: проверяет обязательные подписки, ограничивает право писать, удаляет сообщения нарушителей, дедуплицирует уведомления и выдаёт муты.
